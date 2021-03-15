@@ -11,12 +11,14 @@ function App(): JSX.Element {
       <br />
       {intro}
       <br />
-      {links}
+      <div className="linksContainer">
+       {links}
+      </div>
       <div className="message">
         <div style={{marginTop: "80px"}} className="message">
           {sous}
         </div>
-        <div className="message">
+        <div className="message" style={{marginBottom: "60px"}}>
           {la}
         </div>
       </div>

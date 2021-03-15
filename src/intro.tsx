@@ -8,15 +8,21 @@ const intro: JSX.Element =
     </p>
     <br/>
     <p>
-      I currently work <a href="reactime.io">here</a>. 
-      You can see samples of my work <a href="https://github.com/open-source-labs/reactime">here</a>,   
+      I work at <a href="reactime.io" style={{color: "#FF555D"}}>Reactime.io</a>. 
+      You can see samples of code I've written <a href="https://github.com/open-source-labs/reactime" >here</a>,   
       <a href="https://github.com/HelpDesk-Technologies/HelpDesk-Pro"> here </a>
       and <a href="https://github.com/Quiz-Whiz/Quiz-Whiz-App">here </a>.
     </p>
+    <br />
+    <p>
+      Before becoming a software engineer, I worked in the high
+      arctic doing subsurface wellbore analysis and
+      product management. 
+    </p>
     <br/>
     <p>
-      In my spare time, I like to build wooden boats and 
-      run or ski depending on the season. 
+      In my spare time, I build wooden boats and other things.  
+      I like to run or ski depending on the season. 
     </p>
   </div>
 
