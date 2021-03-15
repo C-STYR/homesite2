@@ -3,8 +3,8 @@ import React from 'react'
 const intro: JSX.Element = 
   <div className="intro">
     <p>
-      I'm Cole. I write code, mainly <a style={{color: "#D18DF0"}}>Javascript </a> 
-      and <a href="https://gist.github.com/C-STYR/f47af87c04da31253bf2f39b14966495" style={{color: "#BDE666"}}>Python</a>, for web applications.
+      I'm Cole. I write code, mainly <span style={{color: "#D18DF0"}}>Javascript </span> 
+      and <span style={{color: "#BDE666"}}>Python</span>, for web applications.
     </p>
     <br/>
     <p>
