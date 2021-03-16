@@ -14,7 +14,7 @@ module.exports = {
       "/api/**": "http://localhost:3000",
     }
   },
-  devtool: 'inline-source-map',
+  devtool: 'source-map',
   module: {
     rules: [
       {
@@ -46,9 +46,7 @@ module.exports = {
   resolve: {
     extensions: [ '.tsx', '.ts', '.js' ],
   },
-  mode: 'development',
   plugins: [
-
     new HtmlWebpackPlugin({
       template: 'src/index.html'
     })
