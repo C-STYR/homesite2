@@ -3,17 +3,18 @@ import React from 'react'
 const intro: JSX.Element = 
   <div className="intro">
     <p>
-      I'm Cole. I write code, mainly <span style={{color: "#D18DF0"}}>Javascript </span> 
+      I'm <span style={{color: "#F6E183"}}>Cole</span>. I write code, 
+      mainly <span style={{color: "#D18DF0"}}>Javascript </span> 
       and <span style={{color: "#BDE666"}}>Python</span>, for web applications.
     </p>
     <br/>
     <p>
       I work at <a href="reactime.io" style={{color: "#FF555D"}}>Reactime.io</a>. 
-      You can see samples of code I've written <a href="https://github.com/open-source-labs/reactime" 
+      You can see samples of code I've written <a href="https://github.com/open-source-labs/reactime/blob/master/src/app/components/ComponentMap.tsx" 
       target="_blank" rel="noopener noreferrer">here</a>,   
-      <a href="https://github.com/HelpDesk-Technologies/HelpDesk-Pro" 
+      <a href="https://github.com/open-source-labs/reactime/blob/master/src/app/components/WebMetrics.tsx" 
       target="_blank" rel="noopener noreferrer"> here </a>
-      and <a href="https://github.com/Quiz-Whiz/Quiz-Whiz-App" 
+      and <a href="https://github.com/Quiz-Whiz/Quiz-Whiz-App/blob/main/server/game.js" 
       target="_blank" rel="noopener noreferrer">here</a>.
     </p>
     <br />
