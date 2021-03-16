@@ -11,18 +11,21 @@ const intro: JSX.Element =
       I work at <a href="reactime.io" style={{color: "#FF555D"}}>Reactime.io</a>. 
       You can see samples of code I've written <a href="https://github.com/open-source-labs/reactime" >here</a>,   
       <a href="https://github.com/HelpDesk-Technologies/HelpDesk-Pro"> here </a>
-      and <a href="https://github.com/Quiz-Whiz/Quiz-Whiz-App">here </a>.
+      and <a href="https://github.com/Quiz-Whiz/Quiz-Whiz-App">here</a>.
     </p>
     <br />
     <p>
-      Before becoming a software engineer, I worked in the high
-      arctic doing subsurface wellbore analysis and
-      product management. 
+      Before becoming a software engineer, I worked as 
+      a <span style={{color: "#F6E183"}}>product manager</span> and
+       as a subsurface wellbore analyst in the Arctic. 
     </p>
     <br/>
     <p>
-      In my spare time, I build wooden boats and other things.  
-      I like to run or ski depending on the season. 
+      In my spare time, I build <a 
+        href="https://www.flickr.com/photos/colestyron/albums/72157718666104172"
+        style={{color: "#77A7FF"}}>wooden boats</a> and 
+        other things. I like long distance running 
+      or <a href="https://www.flickr.com/photos/colestyron/albums/72157718663723918" >skiing </a>depending on the season. 
     </p>
   </div>
 
