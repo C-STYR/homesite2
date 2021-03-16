@@ -11,7 +11,8 @@
   },
   "scripts": {
     "start": "cross-env NODE_ENV=production node server/server.js",
-    "build": "rimraf ./build && tsc",
+    "copy-files": "copyfiles -u 1 src/**/*.html src/**/*.css build/",
+    "build": "rimraf ./build && tsc && npm copy-files",
     "dev": "cross-env NODE_ENV=development concurrently 'webpack-dev-server --open' 'nodemon server/server.js'"
   },
   "keywords": [],
@@ -32,6 +33,7 @@
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
     "babel-loader": "^8.1.0",
+    "copyfiles": "^2.4.1",
     "cross-env": "^7.0.3",
     "css-loader": "^4.3.0",
     "html-webpack-plugin": "^4.4.1",
