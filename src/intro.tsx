@@ -15,6 +15,8 @@ const intro: JSX.Element =
       <a href="https://github.com/open-source-labs/reactime/blob/master/src/app/components/WebMetrics.tsx" 
       target="_blank" rel="noopener noreferrer"> here </a>
       and <a href="https://github.com/Quiz-Whiz/Quiz-Whiz-App/blob/main/server/game.js" 
+      target="_blank" rel="noopener noreferrer">here</a> and tests I've written <a 
+      href="https://github.com/HelpDesk-Technologies/HelpDesk-Pro/blob/main/__tests__/supertest.js" 
       target="_blank" rel="noopener noreferrer">here</a>.
     </p>
     <br />
