@@ -12,7 +12,7 @@
   "scripts": {
     "start": "cross-env NODE_ENV=production node server/server.js",
     "copy-files": "copyfiles -u 1 src/**/*.html src/**/*.css build/",
-    "build": "rimraf ./build && tsc && npm run copy-files",
+    "build": "rimraf ./build && webpack",
     "dev": "cross-env NODE_ENV=development concurrently 'webpack-dev-server --open' 'nodemon server/server.js'"
   },
   "keywords": [],
