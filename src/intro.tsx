@@ -9,7 +9,7 @@ const intro: JSX.Element =
     </p>
     <br/>
     <p>
-      I work at <a href="reactime.io" style={{color: "#FF555D"}}>Reactime.io</a>. 
+      I work at <a href="https://reactime.io/" style={{color: "#FF555D"}}>Reactime.io</a>. 
       You can see samples of code I've written <a href="https://github.com/open-source-labs/reactime/blob/master/src/app/components/ComponentMap.tsx" 
       target="_blank" rel="noopener noreferrer">here</a>,   
       <a href="https://github.com/open-source-labs/reactime/blob/master/src/app/components/WebMetrics.tsx" 
