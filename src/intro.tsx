@@ -23,9 +23,12 @@ const intro: JSX.Element =
     <p>
       In my spare time, I build <a 
         href="https://www.flickr.com/photos/colestyron/albums/72157718666104172"
-        style={{color: "#77A7FF"}}>wooden boats</a> and 
-        other things. I like long distance running 
-      or <a href="https://www.flickr.com/photos/colestyron/albums/72157718663723918" >skiing </a>depending on the season. 
+        style={{color: "#77A7FF"}}>wooden boats</a> and <a 
+        href="https://www.flickr.com/photos/colestyron/albums/72157718672994412"
+        style={{color: "#D18DF0"}}
+        >other things</a>. 
+        I like long distance running 
+      and <a href="https://www.flickr.com/photos/colestyron/albums/72157718663723918" >skiing </a>depending on the season. 
     </p>
   </div>
 
