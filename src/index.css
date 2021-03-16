@@ -27,6 +27,7 @@ img {
 
 .message {
   color: red;
+  max-width: 900px;
   display: flex;
   flex-direction: row;
   justify-content: center;
