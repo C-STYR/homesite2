@@ -10,6 +10,8 @@
 
 .intro {
   max-width: 400px;
+  padding-left: 15px;
+  padding-right: 15px;
   text-align: justify;
 }
 

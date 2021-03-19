@@ -4,7 +4,7 @@ const intro: JSX.Element =
   <div className="intro">
     <p>
       I'm <span style={{color: "#F6E183"}}>Cole</span>. I write code, 
-      mainly <span style={{color: "#D18DF0"}}>Javascript </span> 
+      mainly <span style={{color: "#D18DF0"}}>JavaScript </span> 
       and <span style={{color: "#BDE666"}}>Python</span>, for web applications.
     </p>
     <br/>
