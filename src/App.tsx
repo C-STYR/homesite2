@@ -8,22 +8,27 @@ import mainImage from './mainImage'
 function App(): JSX.Element {
   return (
     <div style={{marginTop: "50px"}}>
-      {mainImage}
-      {/* <h1 style={{textAlign: "center", fontSize: "28px", marginTop: "30px"}}>Hi there.</h1> */}
-      <br />
-      {intro}
-      <br />
-      <div className="linksContainer">
-       {links}
-      </div>
-      <div className="message">
-        <div style={{marginTop: "80px"}} className="message">
-          {sous}
+      <div className="itemContainer">
+        <div >
+          {mainImage}
         </div>
-        <div className="message" style={{marginBottom: "60px"}}>
-          {la}
+        <div >
+          {/* <h1 style={{textAlign: "center", fontSize: "28px", marginTop: "30px"}}>Hi there.</h1>
+          <br /> */}
+          {intro}
         </div>
       </div>
+        <div className="linksContainer">
+          {links}
+        </div>
+        <div className="message">
+          <div style={{marginTop: "80px"}} className="message">
+            {sous}
+          </div>
+          <div className="message" style={{marginBottom: "60px"}}>
+            {la}
+          </div>
+        </div>
     </div>
   )
 }

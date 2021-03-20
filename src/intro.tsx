@@ -2,14 +2,12 @@ import React from 'react'
 
 const intro: JSX.Element = 
   <div className="intro">
-    <p >Hi there.</p>
-    <br />
+    <p style={{fontSize: "24px"}}>Hi there.</p>
     <p>
       I'm <span style={{color: "#F6E183"}}>Cole</span>. I write code, 
       mainly <span style={{color: "#D18DF0"}}>JavaScript </span> 
       and <span style={{color: "#BDE666"}}>Python</span>, for web applications.
     </p>
-    <br/>
     <p>
       I work at <a href="https://reactime.io/" style={{color: "#FF555D"}}>Reactime.io</a>. 
       You can see samples of code I've written <a href="https://github.com/open-source-labs/reactime/blob/master/src/app/components/ComponentMap.tsx" 
@@ -21,13 +19,11 @@ const intro: JSX.Element =
       href="https://github.com/HelpDesk-Technologies/HelpDesk-Pro/blob/main/__tests__/supertest.js" 
       target="_blank" rel="noopener noreferrer">here</a>.
     </p>
-    <br />
     <p>
       Before becoming a software engineer, I worked as 
       a <span style={{color: "#F6E183"}}>product manager</span> and
        as a subsurface wellbore analyst in the Arctic. 
     </p>
-    <br/>
     <p>
       In my spare time, I build <a 
         href="https://www.flickr.com/photos/colestyron/albums/72157718666104172"

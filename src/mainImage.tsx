@@ -3,7 +3,7 @@ import React from 'react';
 import bench from '../public/images/bench.jpg'
 
 const mainImage: JSX.Element = 
-  <div className="linksContainer">
+  <div className="imageContainer">
    <img 
         src={bench}
         height={440}
