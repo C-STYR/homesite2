@@ -8,6 +8,7 @@ const links: JSX.Element =
     <div className="linksContainer">
       <a href="https://github.com/C-STYR">
         <img 
+        className="imgLink"
         src={github}
         height={40}
         width={40}
@@ -15,7 +16,8 @@ const links: JSX.Element =
         />
       </a>
       <a href="mailto:colestyron@gmail.com">
-        <img 
+        <img         
+        className="imgLink"
         src={email}
         height={40}
         width={40}
@@ -24,6 +26,7 @@ const links: JSX.Element =
       </a>
       <a href="https://www.linkedin.com/in/cole-styron/">
         <img 
+        className="imgLink"
         src={linkedin}
         height={40}
         width={40}

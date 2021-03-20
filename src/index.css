@@ -10,8 +10,8 @@
 
 .intro {
   max-width: 400px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
   text-align: justify;
 }
 
@@ -22,9 +22,13 @@
   justify-content: center;
 }
 
-img {
+.imgLink {
   margin-right: 25px;
   margin-left: 25px;
+}
+
+.mainImage {
+  margin: auto;
 }
 
 .message {
