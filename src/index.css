@@ -17,7 +17,7 @@
   /* border: 1px solid red; */
 }
 .imageContainer {
-  width: 440px;
+  width: 460px;
   /* border: 1px solid pink; */
   display: flex;
   flex-direction: row;
@@ -55,11 +55,12 @@
 
 .message {
   color: red;
-  max-width: 900px;
+  /* max-width: 900px; */
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  /* border: 1px solid red; */
 }
 
 .ltr {
