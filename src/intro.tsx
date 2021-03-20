@@ -21,7 +21,7 @@ const intro: JSX.Element =
     </p>
     <p>
       Before becoming a software engineer, I worked as 
-      a <span style={{color: "#F6E183"}}>product manager</span> and
+      an <span style={{color: "#F6E183"}}>IoT product manager</span> and
        as a subsurface wellbore analyst in the Arctic. 
     </p>
     <p>

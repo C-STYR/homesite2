@@ -13,8 +13,6 @@ function App(): JSX.Element {
           {mainImage}
         </div>
         <div >
-          {/* <h1 style={{textAlign: "center", fontSize: "28px", marginTop: "30px"}}>Hi there.</h1>
-          <br /> */}
           {intro}
         </div>
       </div>
