@@ -10,9 +10,10 @@
 
 .intro {
   max-width: 400px;
+  margin-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
-  text-align: justify;
+  text-align: left;
 }
 
 .linksContainer {

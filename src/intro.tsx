@@ -2,6 +2,8 @@ import React from 'react'
 
 const intro: JSX.Element = 
   <div className="intro">
+    <p >Hi there.</p>
+    <br />
     <p>
       I'm <span style={{color: "#F6E183"}}>Cole</span>. I write code, 
       mainly <span style={{color: "#D18DF0"}}>JavaScript </span> 

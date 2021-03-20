@@ -9,7 +9,7 @@ function App(): JSX.Element {
   return (
     <div style={{marginTop: "50px"}}>
       {mainImage}
-      <h1 style={{textAlign: "center", fontSize: "28px", marginTop: "30px"}}>Hi there.</h1>
+      {/* <h1 style={{textAlign: "center", fontSize: "28px", marginTop: "30px"}}>Hi there.</h1> */}
       <br />
       {intro}
       <br />
